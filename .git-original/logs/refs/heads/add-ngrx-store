@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 8c1821e31b914d9fca878dac8cdf87ddc41a2f62 vinsonf <vfernandez@shift3tech.com> 1631345234 -0700	branch: Created from HEAD
+8c1821e31b914d9fca878dac8cdf87ddc41a2f62 7e4043034f49bee124be4622f2be26785d479404 vinsonf <vfernandez@shift3tech.com> 1631345755 -0700	commit: feat(ngrx): generate store
+7e4043034f49bee124be4622f2be26785d479404 3b75b3c353afd725d2e9f864100519ba2bb7ba8b vinsonf <vfernandez@shift3tech.com> 1631345807 -0700	commit: feat(ngrx): generate app store

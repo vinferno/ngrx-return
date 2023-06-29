@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 89096589c1c1f3ff0908ffc1cab002de73c768cb vinsonf <vfernandez@shift3tech.com> 1631344076 -0700	commit (initial): initial commit
+89096589c1c1f3ff0908ffc1cab002de73c768cb 89096589c1c1f3ff0908ffc1cab002de73c768cb vinsonf <vfernandez@shift3tech.com> 1631344331 -0700	checkout: moving from master to add-ngrx-schematic
+89096589c1c1f3ff0908ffc1cab002de73c768cb dc885e2f69b2f87640423a073c6515a79e6aa5f3 vinsonf <vfernandez@shift3tech.com> 1631344502 -0700	commit: feat(ngrx): add schematic
+dc885e2f69b2f87640423a073c6515a79e6aa5f3 dc885e2f69b2f87640423a073c6515a79e6aa5f3 vinsonf <vfernandez@shift3tech.com> 1631344639 -0700	checkout: moving from add-ngrx-schematic to add-ngrx-suite
+dc885e2f69b2f87640423a073c6515a79e6aa5f3 8c1821e31b914d9fca878dac8cdf87ddc41a2f62 vinsonf <vfernandez@shift3tech.com> 1631344721 -0700	commit: feat(ngrx): add ngrx suite install
+8c1821e31b914d9fca878dac8cdf87ddc41a2f62 8c1821e31b914d9fca878dac8cdf87ddc41a2f62 vinsonf <vfernandez@shift3tech.com> 1631345234 -0700	checkout: moving from add-ngrx-suite to add-ngrx-store
+8c1821e31b914d9fca878dac8cdf87ddc41a2f62 7e4043034f49bee124be4622f2be26785d479404 vinsonf <vfernandez@shift3tech.com> 1631345755 -0700	commit: feat(ngrx): generate store
+7e4043034f49bee124be4622f2be26785d479404 3b75b3c353afd725d2e9f864100519ba2bb7ba8b vinsonf <vfernandez@shift3tech.com> 1631345807 -0700	commit: feat(ngrx): generate app store
+3b75b3c353afd725d2e9f864100519ba2bb7ba8b 3b75b3c353afd725d2e9f864100519ba2bb7ba8b vinsonf <vfernandez@shift3tech.com> 1631373404 -0700	checkout: moving from add-ngrx-store to a-generate-action
+3b75b3c353afd725d2e9f864100519ba2bb7ba8b 102f4c4f8d34b239f022a94741ad36ef1016561e vinsonf <vfernandez@shift3tech.com> 1631374126 -0700	commit: feat(ngrx): add user load action
+102f4c4f8d34b239f022a94741ad36ef1016561e 102f4c4f8d34b239f022a94741ad36ef1016561e vinsonf <vfernandez@shift3tech.com> 1631375148 -0700	checkout: moving from a-generate-action to b-generate-effect
+102f4c4f8d34b239f022a94741ad36ef1016561e 48d78010171139041c18c5bf0034363b00354260 vinsonf <vfernandez@shift3tech.com> 1631375218 -0700	commit: feat(ngrx): generate effect
+48d78010171139041c18c5bf0034363b00354260 3c30af7019c9a5375518d2ea7f2bf6115a9855f0 vinsonf <vfernandez@shift3tech.com> 1631376707 -0700	commit: feat(user): add service
+3c30af7019c9a5375518d2ea7f2bf6115a9855f0 5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 vinsonf <vfernandez@shift3tech.com> 1631376719 -0700	commit: feat(user): add service
+5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 vinsonf <vfernandez@shift3tech.com> 1631376748 -0700	checkout: moving from b-generate-effect to c-generate-reducer
+5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 432c59fbc07227c804aea8e309ba6cbb9c52d65a vinsonf <vfernandez@shift3tech.com> 1631378451 -0700	commit: feat(ngrx): add user reducer
+432c59fbc07227c804aea8e309ba6cbb9c52d65a 102f4c4f8d34b239f022a94741ad36ef1016561e vinsonf <vfernandez@shift3tech.com> 1631379682 -0700	checkout: moving from c-generate-reducer to a-generate-action
+102f4c4f8d34b239f022a94741ad36ef1016561e 102f4c4f8d34b239f022a94741ad36ef1016561e vinsonf <vfernandez@shift3tech.com> 1631379820 -0700	checkout: moving from a-generate-action to b2-generate-effect
+102f4c4f8d34b239f022a94741ad36ef1016561e f51003488f7cad173bb7ee3beb46e638d06dde10 vinsonf <vfernandez@shift3tech.com> 1631386422 -0700	commit: feat(effects): generate effects
+f51003488f7cad173bb7ee3beb46e638d06dde10 1112d7b9af7d84ffa173dd048b7b6b6d8efea5ad vinsonf <vfernandez@shift3tech.com> 1631386569 -0700	commit: feat(readme); update read me
+1112d7b9af7d84ffa173dd048b7b6b6d8efea5ad 5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 vinsonf <vfernandez@shift3tech.com> 1631386583 -0700	checkout: moving from b2-generate-effect to b-generate-effect
+5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 1112d7b9af7d84ffa173dd048b7b6b6d8efea5ad vinsonf <vfernandez@shift3tech.com> 1631386619 -0700	checkout: moving from b-generate-effect to b2-generate-effect
+1112d7b9af7d84ffa173dd048b7b6b6d8efea5ad 432c59fbc07227c804aea8e309ba6cbb9c52d65a vinsonf <vfernandez@shift3tech.com> 1631386982 -0700	checkout: moving from b2-generate-effect to c-generate-reducer
+432c59fbc07227c804aea8e309ba6cbb9c52d65a 6139e1b5cf9dfd41e5eba3c15cb2cfaab35bfe7e vinsonf <vfernandez@shift3tech.com> 1631387813 -0700	commit: feat(selector): user selector
+6139e1b5cf9dfd41e5eba3c15cb2cfaab35bfe7e 6139e1b5cf9dfd41e5eba3c15cb2cfaab35bfe7e vinsonf <vfernandez@shift3tech.com> 1631387863 -0700	checkout: moving from c-generate-reducer to d-generate-selector
+6139e1b5cf9dfd41e5eba3c15cb2cfaab35bfe7e c647de3e0983316d110c6be30d8ba2b9c3576cb5 vinsonf <vfernandez@shift3tech.com> 1631398786 -0700	commit: feat(types): update types
+c647de3e0983316d110c6be30d8ba2b9c3576cb5 13a3ab44bb3ad4f58988998a6ddcfe532adefd5e vinsonf <vfernandez@shift3tech.com> 1631399034 -0700	commit: feat(selectors): user selector implement
+13a3ab44bb3ad4f58988998a6ddcfe532adefd5e 13a3ab44bb3ad4f58988998a6ddcfe532adefd5e vinsonf <vfernandez@shift3tech.com> 1631402796 -0700	checkout: moving from d-generate-selector to e-post-store
+13a3ab44bb3ad4f58988998a6ddcfe532adefd5e 763c9f58b43062719591f5b3e06054c7e27c7770 vinsonf <vfernandez@shift3tech.com> 1631404970 -0700	commit: feat(add): posts
+763c9f58b43062719591f5b3e06054c7e27c7770 763c9f58b43062719591f5b3e06054c7e27c7770 vinsonf <vfernandez@shift3tech.com> 1631404988 -0700	checkout: moving from e-post-store to f-select-user
+763c9f58b43062719591f5b3e06054c7e27c7770 6589d26e67e81619e5eca93c0b0a33d7e047e6a6 vinsonf <vfernandez@shift3tech.com> 1631542111 -0700	commit: feat(selectors): user posts

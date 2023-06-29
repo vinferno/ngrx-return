@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 vinsonf <vfernandez@shift3tech.com> 1631376748 -0700	branch: Created from HEAD
+5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 432c59fbc07227c804aea8e309ba6cbb9c52d65a vinsonf <vfernandez@shift3tech.com> 1631378451 -0700	commit: feat(ngrx): add user reducer
+432c59fbc07227c804aea8e309ba6cbb9c52d65a 6139e1b5cf9dfd41e5eba3c15cb2cfaab35bfe7e vinsonf <vfernandez@shift3tech.com> 1631387813 -0700	commit: feat(selector): user selector

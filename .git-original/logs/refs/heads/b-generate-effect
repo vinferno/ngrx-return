@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 102f4c4f8d34b239f022a94741ad36ef1016561e vinsonf <vfernandez@shift3tech.com> 1631375148 -0700	branch: Created from HEAD
+102f4c4f8d34b239f022a94741ad36ef1016561e 48d78010171139041c18c5bf0034363b00354260 vinsonf <vfernandez@shift3tech.com> 1631375218 -0700	commit: feat(ngrx): generate effect
+48d78010171139041c18c5bf0034363b00354260 3c30af7019c9a5375518d2ea7f2bf6115a9855f0 vinsonf <vfernandez@shift3tech.com> 1631376707 -0700	commit: feat(user): add service
+3c30af7019c9a5375518d2ea7f2bf6115a9855f0 5c2a0b0bd99450f7f19d69876c12d0000ecf1d48 vinsonf <vfernandez@shift3tech.com> 1631376719 -0700	commit: feat(user): add service
